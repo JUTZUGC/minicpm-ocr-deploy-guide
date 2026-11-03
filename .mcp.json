@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "minicpmocr-guide": {
+      "command": "node",
+      "args": [
+        "mcp-server.mjs"
+      ]
+    }
+  }
+}
